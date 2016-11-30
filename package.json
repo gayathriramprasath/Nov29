@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "description": "",
+  "main": "ridehealth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gayathriramprasath/Nov29.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gayathriramprasath/Nov29/issues"
+  },
+  "homepage": "https://github.com/gayathriramprasath/Nov29"
+}
